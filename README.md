@@ -105,13 +105,13 @@ Transaction IDs are unique `uint32_t` values.
 
 ~~~text
 ------------------MENU---------------------------
-C/c: create_account()
-H/h: transaction_history()
-W/w: withdraw()
-D/d: deposit()
-B/b: balance_enquiry()
-T/t: transfer()
-E/e: display_accounts()
+C/c: Create account
+H/h: Transaction history(minimum --> last 5)
+W/w: Withdraw amount
+D/d: Deposit amount
+B/b: Balance enquiry
+T/t: Transfer money
+E/e: display all accounts info
 F/f: find account
 S/s: save accounts
 Q/q: exit
@@ -270,3 +270,6 @@ Account -> Account -> Account -> NULL
 Transaction -> Transaction -> Transaction -> NULL
 ~~~
 
+## Author
+
+Nagendra Babu

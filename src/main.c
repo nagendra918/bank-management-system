@@ -23,7 +23,7 @@ int main()
         printf("H/h: Transaction history(minimum --> last 5)\n");
         printf("W/w: Withdraw amount\n");
         printf("D/d: Deposit amount\n");
-        printf("B/b: Balance_enquiry\n");
+        printf("B/b: Balance enquiry\n");
         printf("T/t: Transfer money\n");
         printf("E/e: display all accounts info\n");
         printf("F/f: find account\n");
